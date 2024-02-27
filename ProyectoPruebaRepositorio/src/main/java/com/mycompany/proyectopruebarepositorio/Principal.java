@@ -9,6 +9,11 @@ package com.mycompany.proyectopruebarepositorio;
  *
  * @author Profesor
  */
+class A
+{
+    
+}
+
 public class Principal 
 { 
     

@@ -10,7 +10,7 @@ package com.mycompany.proyectopruebarepositorio;
  * @author Profesor
  */
 public class Principal 
-{
+{ 
 
     /**
      * @param args the command line arguments

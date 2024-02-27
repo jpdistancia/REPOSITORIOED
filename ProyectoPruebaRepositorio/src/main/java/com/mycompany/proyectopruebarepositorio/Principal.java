@@ -11,7 +11,12 @@ package com.mycompany.proyectopruebarepositorio;
  */
 class A
 {
-    
+    public int atributo1;
+
+    A()
+    {
+        this.atributo1 = 99;
+    }
 }
 
 public class Principal 
